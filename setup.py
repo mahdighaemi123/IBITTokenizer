@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding="utf-8") as fh:
 
 setup(
     name='IBITTokenizer',
-    version='0.0.1',
+    version='0.0.2',
     description='Tokenizer for Persian texts based on hazm',
     author='MahdiGhaemi',
     author_email='mahdighaemi123@email.com',
